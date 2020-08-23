@@ -1,1 +1,1 @@
-# KJ_Project_Snake
+# Project_Snake
